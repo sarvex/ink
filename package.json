@@ -82,7 +82,7 @@
 		"@types/signal-exit": "^3.0.0",
 		"@types/sinon": "^9.0.4",
 		"@types/slice-ansi": "^4.0.0",
-		"@types/stack-utils": "^1.0.1",
+		"@types/stack-utils": "^2.0.1",
 		"@types/wrap-ansi": "^3.0.0",
 		"@types/ws": "^8.5.4",
 		"@vdemedes/prettier-config": "^1.0.1",
