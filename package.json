@@ -83,7 +83,7 @@
 		"@types/sinon": "^9.0.4",
 		"@types/slice-ansi": "^4.0.0",
 		"@types/stack-utils": "^2.0.1",
-		"@types/wrap-ansi": "^3.0.0",
+		"@types/wrap-ansi": "^8.0.1",
 		"@types/ws": "^8.5.4",
 		"@vdemedes/prettier-config": "^2.0.1",
 		"ava": "^5.1.1",
