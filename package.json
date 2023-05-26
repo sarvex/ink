@@ -69,7 +69,7 @@
 		"yoga-wasm-web": "~0.3.3"
 	},
 	"devDependencies": {
-		"@faker-js/faker": "^7.6.0",
+		"@faker-js/faker": "^8.0.1",
 		"@sindresorhus/tsconfig": "3.0.1",
 		"@types/benchmark": "^2.1.2",
 		"@types/is-ci": "^2.0.0",
