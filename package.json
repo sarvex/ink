@@ -81,7 +81,7 @@
 		"@types/scheduler": "^0.16.2",
 		"@types/signal-exit": "^3.0.0",
 		"@types/sinon": "^9.0.4",
-		"@types/slice-ansi": "^4.0.0",
+		"@types/slice-ansi": "^5.0.0",
 		"@types/stack-utils": "^2.0.1",
 		"@types/wrap-ansi": "^8.0.1",
 		"@types/ws": "^8.5.4",
